@@ -1,0 +1,2 @@
+fluidsynth -a coreaudio -g 1 -n -i /Users/suvo/Magenta-Software/fluid-soundfont-3.1/FluidR3_GM.sf2 ./2024-12-10_195933_01.mid
+
